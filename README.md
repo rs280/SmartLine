@@ -46,13 +46,16 @@ How websockets work. Time management
 ### Customer view
 1. Customer sets name by clicking on small pencil icon
 2. Use the button at the bottom to easily join the queue
+
 !(Tux, the Linux mascot]https://raw.githubusercontent.com/rs280/SmartLine/main/Screenshot1.png)
+
 ### Admin view
 1. Admin can see all Customers currently in the queue
 2. First, set your meeting link by clicking on the pencil icon
 3. To notify a Customer , click the bell icon
 4. To remove a Customer, simply click on the red X icon next to their name
-!(Screenshot2.png)
+
+!(Tux, the Linux mascot]https://raw.githubusercontent.com/rs280/SmartLine/main/Screenshot2.png)
 
 ## Setup
 1. Install nodejs and yarn
