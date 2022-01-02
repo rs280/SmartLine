@@ -46,7 +46,7 @@ How websockets work. Time management
 ### Customer view
 1. Customer sets name by clicking on small pencil icon
 2. Use the button at the bottom to easily join the queue
-!(Screenshot1.png)
+!(https://raw.githubusercontent.com/rs280/SmartLine/main/Screenshot1.png)
 ### Admin view
 1. Admin can see all Customers currently in the queue
 2. First, set your meeting link by clicking on the pencil icon
